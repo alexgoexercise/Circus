@@ -1,3 +1,9 @@
+package circus.animal;
+
+import circus.stuff.Cannon;
+import circus.stuff.Equipment;
+import circus.stuff.Ladder;
+
 public class Circus {
     private static Animal[] animals = {
             new Duck(),
